@@ -1,7 +1,7 @@
 pandas-exercise-v1
 ==============================
 
-pandas exercise with chatgpt mock dataset
+pandas exercise with mock dataset
 
 Project Organization
 ------------
